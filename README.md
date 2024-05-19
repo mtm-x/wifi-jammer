@@ -40,7 +40,7 @@ sudo airodump-ng wlan0mon
 
 ![4](https://github.com/mtm-x/wifi-jammer/assets/88881685/77d64c1c-b02f-489d-84f6-c23a376558d9)
 
-This is every single router in range. Now we just gonna deauth my router named victim.
+This is every single router in range.once you find your target Press `ctrl+c` to stop. Now we just gonna deauth my router named victim.
 
 We want to take note of 2 things here:
 
@@ -58,7 +58,7 @@ In my case the channel is 4 and copy the corresponding bssid
 sudo airodump-ng wlan0mon --bssid [routers BSSID here] -c [routers channel here]
 ```
 
--c for channel . Press `ctrl+c` to stop
+-c for channel . 
 
 ![5](https://github.com/mtm-x/wifi-jammer/assets/88881685/8df5a9ea-d57e-4339-829f-383b5fe1d267)
 
