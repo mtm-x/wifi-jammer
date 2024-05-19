@@ -15,7 +15,6 @@ In this instance, my wireless card is called wlan0.
 2. Now run 
 
 ```
-
 sudo airmon-ng start wlan0
 ```
 where wlan0 is your network card. This will put your card into monitor mode which allows the card to monitor all traffic on the network.
