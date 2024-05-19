@@ -73,7 +73,7 @@ sudo aireplay-ng --deauth 0 -a [ROUTERS BSSID HERE] wlan0mon
 The 0 represents an infinite amount of deauth attacks. If you wanted to only run 5 deauth attacks you’ll change this to 5.
 
 
-![6](https://github.com/mtm-x/wifi-jammer/assets/88881685/46124812-fa05-402b-b9c1-0491933547ae)
+![6](https://github.com/mtm-x/wifi-jammer/assets/88881685/a7fc9438-6c52-4d6a-9048-ee2031cbf268)
 
 
 now all the devices connected to the router 'victim' will be disconnected . The connected devices try to reconnect to the router 'victim' but again it will be disconnected . Press `ctrl+c` to stop
