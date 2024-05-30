@@ -1,5 +1,5 @@
 # wifi-jammer
-wifi jammer using aircrack-ng without any external wifi adapters.
+wifi jammer using aircrack-ng without any external wifi adapters. If you looking for an automated script head to my another repo [here](https://github.com/mtm-x/wifi-jammer-script)
 # What is deauth attack
 A deauth attack sends forged deauthentication packets from your machine to a client connected to the network you are trying to jam. These packets include fake "sender" addresses that make them appear to the client as if they were sent from the access point themselves. Upon receipt of such packets, most clients disconnect from the network and immediately reconnect.
 # Getting started 
