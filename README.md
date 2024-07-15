@@ -13,7 +13,8 @@ sudo apt install aircrack-ng
 ### Monitor Mode
 1. type `iwconfig` in your terminal
 
-   ![1](https://github.com/mtm-x/wifi-jammer/assets/88881685/8e6b01cb-34cc-4fad-babe-42c7d38db355)
+   ![Screenshot_20240715_183247](https://github.com/user-attachments/assets/d5687b2f-ad30-4eb3-a068-455e6f43dde8)
+
 
 In this instance, my wireless card is called wlan0.
 
